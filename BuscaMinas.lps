@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="BuscaMinas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="buscaMinas"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="60" Y="97"/>
+        <FoldState Value=" T3A0R4 pibjV0{v8 PjDmE0a"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="29" Column="38" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="48" Column="41" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="385" Column="28" TopLine="352"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="386" Column="13" TopLine="352"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="365" Column="35" TopLine="306"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="364" Column="12" TopLine="338"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="362" Column="9" TopLine="338"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="364" Column="6" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="362" Column="6" TopLine="318"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="407" Column="27" TopLine="375"/>
+      </Position>
+      <Position>
+        <Filename Value="BuscaMinas.lpr"/>
+        <Caret Line="458" Column="10" TopLine="426"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
